@@ -33,6 +33,9 @@
     <a href="https://www.credly.com/badges/d26e1cd6-1a90-46b9-a6c3-3d4e5535ba04/public_url" target="_blank">
     <img src="https://github.com/AlexVulf/AlexVulf/blob/main/Sem%20título.png" target="_blank">      
     </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/f874ab3c-8d67-405b-b6f5-9e48e38dc566" target="_blank">
+    Google Cloud Skills Boost      
+    </a>
 </div>
 <br/>
     
