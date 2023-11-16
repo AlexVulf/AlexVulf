@@ -28,12 +28,16 @@
 </div>
 
 <br/>
-
-## 📫 Como me encontrar:
+## Certificações:
 <div align="center">
     <a href="https://www.credly.com/badges/d26e1cd6-1a90-46b9-a6c3-3d4e5535ba04/public_url">
     <img src="https://github.com/AlexVulf/AlexVulf/blob/main/Sem%20título.png">      
     </a>
+</div>
+<br/>
+    
+## 📫 Como me encontrar:
+<div align="center">
     <a href="mailto:alexvulf@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
     <a href="https://www.linkedin.com/in/alexvulf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
     <!-- Emblemas para as habilidades -->
