@@ -9,10 +9,6 @@
 </div>  
 
 <br>
-<br>
-## Certificações
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d26e1cd6-1a90-46b9-a6c3-3d4e5535ba04" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<br>
 ## Habilidades
 
 <div align="center">
