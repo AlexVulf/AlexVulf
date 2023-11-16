@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=daf&text=Olá&height=190&section=header&fontAlign=80&fontColor=333"/>
-[![Mensagem SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&font=Fira+Code&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Alex+Sandro+Vulf!;Seja+Bem-Vindo(a)+ao+meu+perfil+GitHub!+:%29)](https://github.com/AlexVulf)
+[![Mensagem SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&font=Fira+Code&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Alex+Sandro+Vulf!;Seja+Bem-Vindo(a)+ao+meu+perfil+GitHub!+:%29)](https://github.com/AlexVulf/AlexVulf)
 
 [![Grafico de contribuicao](https://github-readme-activity-graph.vercel.app/graph?username=AlexVulf&bg_color=0d1117&color=daf&line=12c1ca&point=0a6c71&area=true&hide_border=true)](https://github.com/AlexVulf)
 
