@@ -13,6 +13,7 @@
 
 <div align="center">
   <img src="https://www.credly.com/badges/d26e1cd6-1a90-46b9-a6c3-3d4e5535ba04/public/badge/image" width="150" height="270" />
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 <br>
