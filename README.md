@@ -30,7 +30,7 @@
 <br/>
 ## Certificações:
 <div align="center">
-    <a href="https://www.credly.com/badges/d26e1cd6-1a90-46b9-a6c3-3d4e5535ba04/public_url">
+    <a href="https://www.credly.com/badges/d26e1cd6-1a90-46b9-a6c3-3d4e5535ba04/public_url" target="_blank">
     <img src="https://github.com/AlexVulf/AlexVulf/blob/main/Sem%20título.png">      
     </a>
 </div>
