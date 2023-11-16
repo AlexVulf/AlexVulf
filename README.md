@@ -34,6 +34,7 @@
     <img src="https://github.com/AlexVulf/AlexVulf/blob/main/Sem%20título.png" target="_blank">      
     </a>
     <a href="https://www.cloudskillsboost.google/public_profiles/f874ab3c-8d67-405b-b6f5-9e48e38dc566" target="_blank">
+    <img src="https://github.com/AlexVulf/AlexVulf/blob/main/google.png" target="_blank"> 
     Google Cloud Skills Boost      
     </a>
 </div>
