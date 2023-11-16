@@ -6,9 +6,9 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVulf&layout=compact&hide_border=true&title_color=fff&text_color=12c1ca&bg_color=0d1117" />
 </div>  
 
-<br>
-## Habilidades
-
+<br/>
+# Habilidades
+<br/>
 <div align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
