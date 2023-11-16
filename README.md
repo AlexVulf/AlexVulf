@@ -4,7 +4,7 @@
 [![Grafico de contribuicao](https://github-readme-activity-graph.vercel.app/graph?username=AlexVulf&bg_color=0d1117&color=fff&line=12c1ca&point=0a6c71&area=true&hide_border=true)](https://github.com/AlexVulf)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexVulf&show_icons=true&count_private=true&hide_border=true&title_color=daf&icon_color=12c1ca&text_color=c9d1d9&bg_color=0d1117" alt="AlexVulf github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexVulf&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=12c1ca&text_color=c9d1d9&bg_color=0d1117" alt="AlexVulf github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVulf&layout=compact&hide_border=true&title_color=daf&text_color=12c1ca&bg_color=0d1117" />
 </div>  
 
